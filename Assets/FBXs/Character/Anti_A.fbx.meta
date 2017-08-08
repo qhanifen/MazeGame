@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 33568454e0dc86b4ea4751efaa5b1992
+timeCreated: 1433367531
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bottom_END_JNT
+    100004: Bottom_JNT
+    100006: Eye_JNT
+    100008: Guardian_Anti_Virus
+    100010: Left_Cheek_END_JNT
+    100012: Left_Cheek_JNT
+    100014: Left_Eyebrow_END_JNT
+    100016: Left_Eyebrow_JNT
+    100018: Left_Mustache_A_JNT
+    100020: Left_Mustache_END_JNT
+    100022: Left_Mustache_JNT
+    100024: Main_Body_JNT
+    100026: Main_Control
+    100028: Mesh_GRP
+    100030: Mouth_JNT
+    100032: Right_Cheek_END_JNT
+    100034: Right_Cheek_JNT
+    100036: Right_Eyebrow_END_JNT
+    100038: Right_Eyebrow_JNT
+    100040: Right_Mustache_A_JNT
+    100042: Right_Mustache_END_JNT
+    100044: Right_Mustache_JNT
+    100046: Root_JNT
+    100048: Skeleton_GRP
+    100050: Top_JNT
+    100052: Top_JNT_END
+    400000: //RootNode
+    400002: Bottom_END_JNT
+    400004: Bottom_JNT
+    400006: Eye_JNT
+    400008: Guardian_Anti_Virus
+    400010: Left_Cheek_END_JNT
+    400012: Left_Cheek_JNT
+    400014: Left_Eyebrow_END_JNT
+    400016: Left_Eyebrow_JNT
+    400018: Left_Mustache_A_JNT
+    400020: Left_Mustache_END_JNT
+    400022: Left_Mustache_JNT
+    400024: Main_Body_JNT
+    400026: Main_Control
+    400028: Mesh_GRP
+    400030: Mouth_JNT
+    400032: Right_Cheek_END_JNT
+    400034: Right_Cheek_JNT
+    400036: Right_Eyebrow_END_JNT
+    400038: Right_Eyebrow_JNT
+    400040: Right_Mustache_A_JNT
+    400042: Right_Mustache_END_JNT
+    400044: Right_Mustache_JNT
+    400046: Root_JNT
+    400048: Skeleton_GRP
+    400050: Top_JNT
+    400052: Top_JNT_END
+    4300000: Guardian_Anti_Virus
+    9500000: //RootNode
+    13700000: Guardian_Anti_Virus
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 7
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

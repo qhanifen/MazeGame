@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 550978a7a62c4f84b8d0f33ca8477316
+timeCreated: 1433560886
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Beak_END_JNT
+    100004: Beak_JNT
+    100006: Eye_JNT
+    100008: Jaw_JNT
+    100010: joint1
+    100012: Left_Eyebrow_A_JNT
+    100014: Left_Eyebrow_B_JNT
+    100016: Left_Eyebrow_END_JNT
+    100018: Left_FuManchu_END_JNT
+    100020: Left_FuManchu_JNT
+    100022: Left_Neck_Spike_END_JNT
+    100024: Left_Neck_Spike_JNT
+    100026: Main_Body_JNT
+    100028: Main_Control
+    100030: Mouth_JNT
+    100032: Right_Eyebrow_A_JNT
+    100034: Right_Eyebrow_B_JNT
+    100036: Right_Eyebrow_END_JNT
+    100038: Right_FuManchu_END_JNT
+    100040: Right_FuManchu_JNT
+    100042: Right_Neck_Spike_END_JNT
+    100044: Right_Neck_Spike_JNT
+    100046: Root_JNT
+    100048: Skeleton_GRP
+    400000: //RootNode
+    400002: Beak_END_JNT
+    400004: Beak_JNT
+    400006: Eye_JNT
+    400008: Jaw_JNT
+    400010: joint1
+    400012: Left_Eyebrow_A_JNT
+    400014: Left_Eyebrow_B_JNT
+    400016: Left_Eyebrow_END_JNT
+    400018: Left_FuManchu_END_JNT
+    400020: Left_FuManchu_JNT
+    400022: Left_Neck_Spike_END_JNT
+    400024: Left_Neck_Spike_JNT
+    400026: Main_Body_JNT
+    400028: Main_Control
+    400030: Mouth_JNT
+    400032: Right_Eyebrow_A_JNT
+    400034: Right_Eyebrow_B_JNT
+    400036: Right_Eyebrow_END_JNT
+    400038: Right_FuManchu_END_JNT
+    400040: Right_FuManchu_JNT
+    400042: Right_Neck_Spike_END_JNT
+    400044: Right_Neck_Spike_JNT
+    400046: Root_JNT
+    400048: Skeleton_GRP
+    7400000: Walk
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Main_Control
+        weight: 1
+      - path: Main_Control/Skeleton_GRP
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Eye_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Left_Eyebrow_A_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Left_Eyebrow_A_JNT/Left_Eyebrow_B_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Left_Eyebrow_A_JNT/Left_Eyebrow_B_JNT/Left_Eyebrow_END_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Left_FuManchu_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Left_FuManchu_JNT/Left_FuManchu_END_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Left_Neck_Spike_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Left_Neck_Spike_JNT/Left_Neck_Spike_END_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Mouth_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Mouth_JNT/Beak_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Mouth_JNT/Beak_JNT/Beak_END_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Mouth_JNT/Jaw_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Mouth_JNT/Jaw_JNT/joint1
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Right_Eyebrow_A_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Right_Eyebrow_A_JNT/Right_Eyebrow_B_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Right_Eyebrow_A_JNT/Right_Eyebrow_B_JNT/Right_Eyebrow_END_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Right_FuManchu_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Right_FuManchu_JNT/Right_FuManchu_END_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Right_Neck_Spike_JNT
+        weight: 1
+      - path: Main_Control/Skeleton_GRP/Root_JNT/Main_Body_JNT/Right_Neck_Spike_JNT/Right_Neck_Spike_END_JNT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 7
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: b984f2e3aa3645f429d93b70b0b90dfb,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

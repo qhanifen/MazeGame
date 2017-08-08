@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 3cb8a1f9edb3dc0458648d1e61852d38
+timeCreated: 1433558697
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bottom_JNT
+    100002: Bottom_JNT_END
+    100004: Eye_JNT
+    100006: LB_Spike_JNT
+    100008: LB_Spike_Tip_JNT
+    100010: LT_Spike_JNT
+    100012: LT_Spike_Tip_JNT
+    100014: MAIN_Body_JNT
+    100016: MAIN_Spike_JNT
+    100018: Mouth_END_JNT
+    100020: Mouth_JNT
+    100022: RB_Spike_JNT
+    100024: RB_Spike_Tip_JNT
+    100026: Rig_GRP
+    100028: Root_Control
+    100030: ROOT_JNT
+    100032: RT_Spike_JNT
+    100034: RT_Spike_Tip_JNT
+    100036: Skeleton_GRP
+    100038: Top_END_JNT
+    100040: Top_JNT
+    100042: //RootNode
+    400000: Bottom_JNT
+    400002: Bottom_JNT_END
+    400004: Eye_JNT
+    400006: LB_Spike_JNT
+    400008: LB_Spike_Tip_JNT
+    400010: LT_Spike_JNT
+    400012: LT_Spike_Tip_JNT
+    400014: MAIN_Body_JNT
+    400016: MAIN_Spike_JNT
+    400018: Mouth_END_JNT
+    400020: Mouth_JNT
+    400022: RB_Spike_JNT
+    400024: RB_Spike_Tip_JNT
+    400026: Rig_GRP
+    400028: Root_Control
+    400030: ROOT_JNT
+    400032: RT_Spike_JNT
+    400034: RT_Spike_Tip_JNT
+    400036: Skeleton_GRP
+    400038: Top_END_JNT
+    400040: Top_JNT
+    400042: //RootNode
+    7400000: Walk
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root_Control
+        weight: 1
+      - path: Root_Control/Rig_GRP
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Body_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Body_JNT/Bottom_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Body_JNT/Bottom_JNT/Bottom_JNT_END
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Body_JNT/Eye_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Body_JNT/Mouth_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Body_JNT/Mouth_JNT/Mouth_END_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Body_JNT/Top_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Body_JNT/Top_JNT/Top_END_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Spike_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Spike_JNT/LB_Spike_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Spike_JNT/LB_Spike_JNT/LB_Spike_Tip_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Spike_JNT/LT_Spike_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Spike_JNT/LT_Spike_JNT/LT_Spike_Tip_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Spike_JNT/RB_Spike_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Spike_JNT/RB_Spike_JNT/RB_Spike_Tip_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Spike_JNT/RT_Spike_JNT
+        weight: 1
+      - path: Root_Control/Rig_GRP/Skeleton_GRP/ROOT_JNT/MAIN_Spike_JNT/RT_Spike_JNT/RT_Spike_Tip_JNT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Root_Control
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 1179fcf71abc4004ba49f00d79ae0297,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

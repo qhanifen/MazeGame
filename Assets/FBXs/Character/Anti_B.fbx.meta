@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: b984f2e3aa3645f429d93b70b0b90dfb
+timeCreated: 1433357784
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Anti_Virus_2 1
+    100004: Beak_END_JNT
+    100006: Beak_JNT
+    100008: Eye_JNT
+    100010: Jaw_JNT
+    100012: joint1
+    100014: Left_Eyebrow_A_JNT
+    100016: Left_Eyebrow_B_JNT
+    100018: Left_Eyebrow_END_JNT
+    100020: Left_FuManchu_END_JNT
+    100022: Left_FuManchu_JNT
+    100024: Left_Neck_Spike_END_JNT
+    100026: Left_Neck_Spike_JNT
+    100028: Main_Body_JNT
+    100030: Main_Control
+    100032: Mesh_GRP
+    100034: Mouth_JNT
+    100036: Right_Eyebrow_A_JNT
+    100038: Right_Eyebrow_B_JNT
+    100040: Right_Eyebrow_END_JNT
+    100042: Right_FuManchu_END_JNT
+    100044: Right_FuManchu_JNT
+    100046: Right_Neck_Spike_END_JNT
+    100048: Right_Neck_Spike_JNT
+    100050: Root_JNT
+    100052: Skeleton_GRP
+    400000: //RootNode
+    400002: Anti_Virus_2 1
+    400004: Beak_END_JNT
+    400006: Beak_JNT
+    400008: Eye_JNT
+    400010: Jaw_JNT
+    400012: joint1
+    400014: Left_Eyebrow_A_JNT
+    400016: Left_Eyebrow_B_JNT
+    400018: Left_Eyebrow_END_JNT
+    400020: Left_FuManchu_END_JNT
+    400022: Left_FuManchu_JNT
+    400024: Left_Neck_Spike_END_JNT
+    400026: Left_Neck_Spike_JNT
+    400028: Main_Body_JNT
+    400030: Main_Control
+    400032: Mesh_GRP
+    400034: Mouth_JNT
+    400036: Right_Eyebrow_A_JNT
+    400038: Right_Eyebrow_B_JNT
+    400040: Right_Eyebrow_END_JNT
+    400042: Right_FuManchu_END_JNT
+    400044: Right_FuManchu_JNT
+    400046: Right_Neck_Spike_END_JNT
+    400048: Right_Neck_Spike_JNT
+    400050: Root_JNT
+    400052: Skeleton_GRP
+    4300000: Anti_Virus_2
+    9500000: //RootNode
+    13700000: Anti_Virus_2 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 7
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
